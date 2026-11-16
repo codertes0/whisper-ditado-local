@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+last-run.log
+last-run.err
